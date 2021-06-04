@@ -1,0 +1,42 @@
+.nav-personal-style {
+    background-color: #36b57a;
+}
+.module-base {
+	background-color: #f7f7f7;
+	height: 100vh;
+}
+.darker {
+	background-color: #dedede;
+}
+.divider {
+	height: 5vh;
+	background-color: #95e8c0;
+	display: none; /* might change later*/
+}
+.header {
+	height: 75vh;
+	margin-top: 5vh;
+}
+.footer {
+	height: 33vh;
+	background-color: #2f9c69;
+	width: 100% !important;
+}
+.logo{
+	width: 4vh;
+	height: 4vh;
+}
+.page-up-style{
+	position: fixed;
+	bottom: 5vh;
+	right: 5vh;
+	height: 5vh;
+	width: 5vh;
+}
+.call-btn-style{
+	position: fixed;
+	bottom: 12.5vh;
+	right: 5vh;
+	height: 5vh;
+	width: 5vh;
+}
