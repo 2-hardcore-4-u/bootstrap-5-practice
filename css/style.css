@@ -14,8 +14,14 @@
 	display: none; /* might change later*/
 }
 .header {
-	height: 75vh;
-	margin-top: 5vh;
+	position: relative;
+	padding-top: 5vh;
+}
+#carouselExample {
+	height: 95vh;
+}
+.parallax {
+	position: relative;
 }
 .footer {
 	height: 33vh;
